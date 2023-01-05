@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-Bold.eot');
+    src: url('GalanoGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GalanoGrotesque-Bold.woff2') format('woff2'),
+        url('GalanoGrotesque-Bold.woff') format('woff'),
+        url('GalanoGrotesque-Bold.ttf') format('truetype'),
+        url('GalanoGrotesque-Bold.svg#GalanoGrotesque-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-Black.eot');
+    src: url('GalanoGrotesque-Black.eot?#iefix') format('embedded-opentype'),
+        url('GalanoGrotesque-Black.woff2') format('woff2'),
+        url('GalanoGrotesque-Black.woff') format('woff'),
+        url('GalanoGrotesque-Black.ttf') format('truetype'),
+        url('GalanoGrotesque-Black.svg#GalanoGrotesque-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
